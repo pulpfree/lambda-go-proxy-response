@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/pulpfree/pkgerrors"
+	pkgerrors "github.com/pulpfree/go-errors"
 )
 
 func extractBody(body string) (ret map[string]interface{}, err error) {

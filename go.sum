@@ -8,11 +8,8 @@ github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSs
 github.com/opentracing/opentracing-go v1.2.0 h1:uEJPy/1a5RIPAJ0Ov+OIO8OxWu77jEv+1B0VhjKrZUs=
 github.com/opentracing/opentracing-go v1.2.0/go.mod h1:GxEUsuufX4nBwe+T+Wl9TAgYrxe9dPLANfrWvHYVTgc=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
-github.com/pulpfree/lambda-utils v1.0.0 h1:UJYDAN5UtQkCR/Sp2yxi+gbs0WKAoDbJJyqZ+oVYo2Y=
-github.com/pulpfree/lambda-utils/pkgerrors v0.0.0-20200827191417-628c2314d127 h1:0054wPlJF1HDOtNp6S0LKEyt0r28A1z8Z1wrLM8XwAU=
-github.com/pulpfree/lambda-utils/pkgerrors v0.0.0-20200827191417-628c2314d127/go.mod h1:V66deNiS0a0f/LYzx6x9QADhhzce32OoIkllvZnQeJg=
-github.com/pulpfree/pkgerrors v1.0.0 h1:hbf0j0P06yDpFluv032a4LjtRKsgek9/mOG84lzIjH8=
-github.com/pulpfree/pkgerrors v1.0.0/go.mod h1:Gkf14OyH3dZ6UBNDl041CMNBWJ9NLOByMq/z+foHjmw=
+github.com/pulpfree/go-errors v1.0.1 h1:OPn8/fU+TDMB4Zp2LJXZrQLaVjsnU9wby7RoNRF1Kxo=
+github.com/pulpfree/go-errors v1.0.1/go.mod h1:KgNDK5LHXFg96lYZCtJODeL8jxlZABz552JHmCx468s=
 github.com/russross/blackfriday/v2 v2.0.1/go.mod h1:+Rmxgy9KzJVeS9/2gXHxylqXiyQDYRxCVz55jmeOWTM=
 github.com/shurcooL/sanitized_anchor_name v1.0.0/go.mod h1:1NzhyTcUVG4SuEtjjoZeVRXNmyL/1OwPU0+IJeTBvfc=
 github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=

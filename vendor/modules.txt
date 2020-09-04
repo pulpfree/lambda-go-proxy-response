@@ -4,6 +4,6 @@ github.com/aws/aws-lambda-go/events
 # github.com/opentracing/opentracing-go v1.2.0
 ## explicit
 github.com/opentracing/opentracing-go/log
-# github.com/pulpfree/pkgerrors v1.0.0
+# github.com/pulpfree/go-errors v1.0.1
 ## explicit
-github.com/pulpfree/pkgerrors
+github.com/pulpfree/go-errors

@@ -9,7 +9,7 @@ import (
 
 	"github.com/aws/aws-lambda-go/events"
 	"github.com/opentracing/opentracing-go/log"
-	"github.com/pulpfree/pkgerrors"
+	pkgerrors "github.com/pulpfree/go-errors"
 )
 
 // Response struct
